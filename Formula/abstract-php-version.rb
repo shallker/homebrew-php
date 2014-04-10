@@ -44,7 +44,7 @@ class AbstractPhpVersion < Formula
   end
 
   module Php54Defs
-    PHP_SRC_TARBALL = 'http://www.php.net/get/php-5.4.16.tar.bz2/from/this/mirror'
+    PHP_SRC_TARBALL = 'http://museum.php.net/php5/php-5.4.16.tar.bz2'
     PHP_GITHUB_URL  = 'https://github.com/php/php-src.git'
     PHP_VERSION     = '5.4.27'
     PHP_BRANCH      = 'PHP-5.4'

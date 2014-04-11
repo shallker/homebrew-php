@@ -46,13 +46,13 @@ class AbstractPhpVersion < Formula
   module Php54Defs
     PHP_SRC_TARBALL = 'http://museum.php.net/php5/php-5.4.16.tar.bz2'
     PHP_GITHUB_URL  = 'https://github.com/php/php-src.git'
-    PHP_VERSION     = '5.4.27'
+    PHP_VERSION     = '5.4.16'
     PHP_BRANCH      = 'PHP-5.4'
 
     PHP_CHECKSUM    = {
-                        :md5    => '1c6e99187d25023411b663ea09f145ee',
-                        :sha1   => '798f2a803d81b386da62e1986ac0f743ecb6c3be',
-                        :sha256 => '09dcc44cded735e1cf1b1b9f2749d1a0fd90e03378b6a70364a662f4740e61e2',
+                        :md5    => '3940a5295872964495f9c56596272d68',
+                        :sha1   => 'e7a9e798821fa186ae297392353be8f1d3de6edd',
+                        :sha256 => '10a71c80c0e0d2b60fd1b6fdce9f76e09d35648cf179bb182146babe61d8c4a3',
                       }
   end
 
